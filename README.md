@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jemshithjemc
+- 👀 I’m interested in Python 
+- 🌱 I’m currently learning node
+- 📫 To reach me Instagram : jemshith_jemc
