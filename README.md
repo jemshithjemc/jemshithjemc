@@ -39,7 +39,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ogicbr0&layout=compact&theme=react&border_radius=5&hide=assembly" alt="Top Languages" />
 </p>
 
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=1ogicbr0&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe" alt="GitHub Activity Graph" />
-</p>
