@@ -13,18 +13,6 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋++I'm+ Jemshith +👨‍💻)](https://git.io/typing-svg)-->
 
-<p align="center"><b>Messy code. Beautiful outcomes.</b></p>
- 
-   🔸 Instagram : @jemshith_jemc
- 
-   
- ```javascript
-        (props) => {
-            console.log("Hehe Exploited",props.exploit)
-          };
-  ```
-
-
 <p align="left">
 </p>
 
