@@ -2,7 +2,7 @@
 <h1 align="center">
   &nbsp;<img style="background-color:black" align="center" 
   src
-="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=31&duration=4000&pause=1000&color=#0000FF&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=++Hi+%F0%9F%91%8B%2C+I'm+Jemshith+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;Thanks+for+stopping+by+%F0%9F%99%8C" 
+="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=31&duration=4000&pause=1000&color=0000FF&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=++Hi+%F0%9F%91%8B%2C+I'm+Jemshith+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;Thanks+for+stopping+by+%F0%9F%99%8C" 
   alt="jemshith intro typing animation" />
 </h1>
 
