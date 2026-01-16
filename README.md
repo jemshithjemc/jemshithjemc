@@ -10,7 +10,7 @@
 <p align="center">
   👋 Hi, I’m <b>@jemshithjemc</b> <br>
   👀 I’m interested in <b>Python</b> <br>
-  🌱 I’m currently learning <b>Node.js</b> <br>
+  🌱 I’m currently Working on <b>Node.js</b> <br>
   📫 Reach me on Instagram: <b><a href="https://instagram.com/jemshith_jemc" target="_blank">@jemshith_jemc</a></b>
 </p>
 
